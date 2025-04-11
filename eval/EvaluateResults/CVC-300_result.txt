@@ -1,0 +1,1 @@
+(Dataset:CVC-300; Model:xxt) meanDic:0.897;meanIoU:0.833;wFm:0.880;Sm:0.934;meanEm:0.963;MAE:0.008;maxEm:0.967;maxDice:0.902;maxIoU:0.839;meanSen:0.960;maxSen:1.000;meanSpe:0.989;maxSpe:0.993.

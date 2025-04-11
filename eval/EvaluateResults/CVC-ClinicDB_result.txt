@@ -1,0 +1,1 @@
+(Dataset:CVC-ClinicDB; Model:xxt) meanDic:0.938;meanIoU:0.892;wFm:0.935;Sm:0.949;meanEm:0.985;MAE:0.006;maxEm:0.989;maxDice:0.943;maxIoU:0.897;meanSen:0.957;maxSen:1.000;meanSpe:0.992;maxSpe:0.997.

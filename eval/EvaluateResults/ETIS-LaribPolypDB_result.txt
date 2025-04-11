@@ -1,0 +1,1 @@
+(Dataset:ETIS-LaribPolypDB; Model:xxt) meanDic:0.791;meanIoU:0.718;wFm:0.756;Sm:0.870;meanEm:0.901;MAE:0.016;maxEm:0.904;maxDice:0.795;maxIoU:0.723;meanSen:0.884;maxSen:1.000;meanSpe:0.941;maxSpe:0.946.

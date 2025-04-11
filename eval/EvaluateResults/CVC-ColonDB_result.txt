@@ -1,0 +1,1 @@
+(Dataset:CVC-ColonDB; Model:xxt) meanDic:0.811;meanIoU:0.731;wFm:0.798;Sm:0.861;meanEm:0.911;MAE:0.027;maxEm:0.915;maxDice:0.815;maxIoU:0.734;meanSen:0.824;maxSen:1.000;meanSpe:0.957;maxSpe:0.962.

@@ -1,0 +1,1 @@
+(Dataset:Kvasir; Model:xxt) meanDic:0.919;meanIoU:0.866;wFm:0.910;Sm:0.924;meanEm:0.958;MAE:0.023;maxEm:0.960;maxDice:0.921;maxIoU:0.869;meanSen:0.923;maxSen:1.000;meanSpe:0.984;maxSpe:0.990.
